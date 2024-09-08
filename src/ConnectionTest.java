@@ -4,7 +4,7 @@ public class ConnectionTest {
     private static final String DRIVER = "com.mysql.cj.jdbc.Driver";
     private static final String URL = "jdbc:mysql://127.0.0.1:3306/prac";
     private static final String USER = "root";
-    private static final String PW = "sadcatis477!";
+    private static final String PW = "000000";
     public static Statement stmt;
 
     public Connection getConnection() {
